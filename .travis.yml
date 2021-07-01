@@ -19,5 +19,4 @@ install:
 
 script:
   - npm run ci:test
-  include: 
- stage: test 
+
